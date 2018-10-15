@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Saudi Airlines</name>
+				<texture>Liveries/A332RR/SVA.png</texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>
